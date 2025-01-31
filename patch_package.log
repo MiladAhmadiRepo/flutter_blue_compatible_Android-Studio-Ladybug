@@ -1,0 +1,4 @@
+[2025-01-31T10:21:03.253855] Starting patch_package with arguments: flutter_blue_compatible_Android-Studio-Ladybug
+[2025-01-31T10:21:03.257204] Package name is missing for command flutter_blue_compatible_Android-Studio-Ladybug
+[2025-01-31T10:21:03.257300] Usage: dart run patch_package <command> [<package_name>]
+[2025-01-31T10:21:03.257349] Commands: start <package_name>, done <package_name>, apply

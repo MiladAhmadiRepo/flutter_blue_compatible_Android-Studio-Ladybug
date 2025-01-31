@@ -24,7 +24,8 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.google.protobuf'
 
 android {
-    compileSdkVersion 30
+    compileSdkVersion 33
+    namespace 'com.pauldemarco.flutter_blue'
 
     defaultConfig {
         minSdkVersion 19
